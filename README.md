@@ -1,4 +1,4 @@
-# 💰 Financial Default Prediction and Risk Assessment
+# 💰 Credit Default Prediction and Risk Assessment
 
 This project focuses on **predicting financial defaults** using structured financial and demographic data. By implementing supervised machine learning models, the system identifies high-risk entities and enables informed lending and risk management decisions.
 
